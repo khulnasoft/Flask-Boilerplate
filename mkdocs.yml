@@ -1,4 +1,4 @@
-site_name: flask repo template Documentation
+site_name: Flask-Boilerplate Documentation
 pages: 
   - Home: index.md
   - Setup: setup.md
